@@ -1,4 +1,4 @@
-##Avatar-Unifier
+## Avatar-Unifier
 
 This simple and basic chrome extension changes profile pic of every user on homepage of Linkedin to any static image.
 
